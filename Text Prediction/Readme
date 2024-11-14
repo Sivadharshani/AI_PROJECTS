@@ -2,7 +2,7 @@ Overview
 This project performs text classification using a pre-trained sentiment analysis model.
 Model Used: distilbert-base-uncased-finetuned-sst-2-english from Hugging Face’s Transformers.
 Evaluation Parameters
-1)Accuracy
+1)Confidence
 2)Classification Report
 3)Confusion Matrix
 
