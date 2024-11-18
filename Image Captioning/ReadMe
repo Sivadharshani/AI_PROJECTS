@@ -1,0 +1,3 @@
+This project demonstrates an image captioning systemusin g a pre-trained Vision Transformer (ViT)as the encoder and GPT-2 as the decoder.
+It takes an input image, generates a descriptive caption, and displays the image with the caption. 
+The model is built using Hugging Face Transformers and processes images via the Pillow library. 
