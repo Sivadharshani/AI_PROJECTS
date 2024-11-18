@@ -1,0 +1,4 @@
+This project summarizes text from PDF files using the pre-trained BART Transformer model. 
+It extracts text using PyMuPDF and generates concise summaries with Hugging Face Transformers. 
+The summary is displayed as text output and also saved as a new PDF file. 
+This tool is ideal for quickly understanding long documents.
