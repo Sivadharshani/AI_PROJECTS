@@ -1,0 +1,7 @@
+This repository contains a Python-based Question Answering System using BERT and dense retrieval technique. 
+It employs DistilBERT for extracting answers from the context and Sentence-BERT (SBERT) for finding the most relevant passage based on semantic similarity.  
+
+  Features include:  
+1. Dense retrieval using cosine similarity to identify relevant contexts.  
+2. Answer extraction from the most relevant passage.  
+3. Pre-trained models like DistilBERT and SBERT for efficiency and accuracy.  
