@@ -1,0 +1,11 @@
+Chatbot Using Retrieval-Augmented Generation (RAG):
+This project implements a chatbot leveraging Retrieval-Augmented Generation (RAG) to answer questions based on content extracted from PDFs. 
+The system integrates document preprocessing, chunking, document embeddings with FAISS, and response generation using pretrained DPR and T5 models from Hugging Face. 
+
+Features:
+1.Extracts text from PDFs using `pdfplumber`.
+2.Builds a semantic search index with FAISS for document retrieval.
+3.Generates context-aware answers using the `T5` language model.
+
+Usage:
+Upload a PDF, query the chatbot, and get detailed, context-aware responses. Perfect for automating question answering from research papers, reports, and more.
